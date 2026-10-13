@@ -1,5 +1,7 @@
 # TaskFlow API
 
+[![CI](https://github.com/BeyondThrone/taskflow-api/actions/workflows/ci.yml/badge.svg)](https://github.com/BeyondThrone/taskflow-api/actions/workflows/ci.yml)
+
 REST API for managing tasks. Built while learning Spring Boot.
 
 ## Endpoints
@@ -21,3 +23,4 @@ Java 17, Spring Boot, Spring Data JPA, H2, Maven
 ./mvnw spring-boot:run
 
 Runs at http://localhost:8080/api/tasks
+
